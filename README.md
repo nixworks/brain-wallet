@@ -1,2 +1,2 @@
-# brain-wallet
-腦錢包
+# brain wallet
+
